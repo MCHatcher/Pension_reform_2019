@@ -1,8 +1,8 @@
-%Numerical example of Fedotenkov (2016, Econ Letters)
+%Numerical example of Fedotenkov (2016, Econ Lett) + welfare analysis 
+%Written by Michael Hatcher, April 2019 (m.c.hatcher@soton.ac.uk)
 
-clear
-clc
-close all
+clear; clc;
+close all;
 
 %Calibration
 alfa = 0.4;
